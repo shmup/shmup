@@ -1,1 +1,1 @@
-Hello! I am a developer that is currently looking for work. If anything in my [resume](https://smell.flowers/Jared_Miller_Resume_2022.pdf) aligns with an opportunity, feel free to ping me. Grep my email from the mentioned resume.
+Hello! I am a developer that is currently looking for work. If anything in my [resume](https://smell.flowers/resume.pdf) aligns with an opportunity, feel free to ping me. Grep my email from the mentioned resume.
