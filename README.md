@@ -1,1 +1,1 @@
-Hello! I am a developer that is currently looking for work. If anything in my [resume](https://smell.flowers/resume.pdf) aligns with an opportunity, feel free to ping me. Grep my email from the mentioned resume.
+![forest-wall](https://user-images.githubusercontent.com/118710/184708723-deee0ea2-54ba-4304-a91f-aa1b6429dd71.png)
